@@ -434,5 +434,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "delroy lindo",
             "spike lee",
         ],
+    ),
+    (
+        "barbie",
+        "greta gerwig",
+        2023,
+        [
+            "margot robbie",
+            "ryan gosling",
+            "will ferrell",
+            "emma mackey",
+            "simu liu",
+            "michael cera",
+        ],
     )
 ]
