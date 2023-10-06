@@ -4,10 +4,10 @@ Assignment 3 is all about creating this natural language query system.  In order
 
 ## Reflection Questions
 1. In your own words describe the `search_pa_list` function.
-
+search_pa_list is a function that essentially takes two sentences and extracts the keywords in the sentence that was inputted by a user in order to output what was asked for.
 
 2. What movie did you add to the `movies.py` file?  What year was it made? Any specific reason you added that movie?
-
+I added the Barbie movie in the file. It was made in 2023. I added it because it was one of the first movies this year that I went to go watch and it's also the one where my mom actually came with my siblings, cousins, and I to go watch. 
 
 3. What pattern / action did you add to the paList data structure?  Why do you think that is a useful pattern / action?
 
